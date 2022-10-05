@@ -1,5 +1,9 @@
 # Hi there, I'm suljov! 👋
+I from Sweden currently studying IT Security technician/consultant.
+Im also studying ethical hacking with goals to work as a penetreation tester but my ultimate goal is to work as a red teamer. 
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suljov&show_icons=true&theme=dracula)
+
 
 ## My repositories 
 * [Windwos and Active Directory cheat sheet](https://github.com/suljov/Windwos-and-Active-Directory)
