@@ -5,7 +5,6 @@ Im also studying ethical hacking with goals to work as a penetreation tester and
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suljov&show_icons=true&theme=dracula)
 [![tryhackme stats](https://raw.githubusercontent.com/suljov/suljov/master/assets/thm_propic.png)](https://tryhackme.com/p/suljov)
 
-jag vill att du [tryckhär](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 
 ## My repositories 
