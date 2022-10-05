@@ -6,7 +6,6 @@ Im also studying ethical hacking with goals to work as a penetreation tester but
 
 ![tryhackme stats](https://raw.githubusercontent.com/suljov/suljov/master/assets/thm_propic.png)[https://tryhackme.com/p/suljov]
 
-<script src="https://tryhackme.com/badge/225085"></script>
 
 ## My repositories 
 * [Windwos and Active Directory cheat sheet](https://github.com/suljov/Windwos-and-Active-Directory)
