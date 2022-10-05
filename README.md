@@ -3,8 +3,7 @@ I from Sweden currently studying IT Security technician/consultant.
 Im also studying ethical hacking with goals to work as a penetreation tester but my ultimate goal is to work as a red teamer. 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suljov&show_icons=true&theme=dracula)
-
-# [![tryhackme stats](https://raw.githubusercontent.com/suljov/suljov/master/assets/thm_propic.png)](https://tryhackme.com/p/suljov)
+[![tryhackme stats](https://raw.githubusercontent.com/suljov/suljov/master/assets/thm_propic.png)](https://tryhackme.com/p/suljov)
 
 
 ## My repositories 
