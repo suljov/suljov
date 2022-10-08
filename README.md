@@ -6,6 +6,8 @@ Im also studying ethical hacking with goals to work as a penetreation tester and
 [![tryhackme stats](https://raw.githubusercontent.com/suljov/suljov/master/assets/thm_propic.png)](https://tryhackme.com/p/suljov)
 
 
+## My pentest template
+* [Pentest template](https://github.com/suljov/suljov/blob/main/pentest-template.ctb)
 
 ## My repositories 
 * [Windwos and Active Directory cheat sheet](https://github.com/suljov/Windwos-and-Active-Directory)
