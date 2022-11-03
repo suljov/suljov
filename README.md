@@ -12,7 +12,7 @@ I mostly use Github to take/make notes and cheat sheets for mostly myself but sh
 * [Pentest template](https://github.com/suljov/suljov/blob/main/pentest-template.ctb)
 
 ## My repositories 
-* [Windwos and Active Directory cheat sheet](https://github.com/suljov/Windwos-and-Active-Directory)
+* [Windows and Active Directory cheat sheet](https://github.com/suljov/Windwos-and-Active-Directory)
 * [Linux hacking cheat sheet](https://github.com/suljov/Hacking-linux)
 * [Pivoting Tunneling and Port Forwarding cheat sheet](https://github.com/suljov/Pivoting-Tunneling-and-Port-Forwarding)
 * [Webb app cheat sheet](https://github.com/suljov/Webb-app)
