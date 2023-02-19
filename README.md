@@ -13,8 +13,6 @@ OBS: My notes/cheat sheets do not always have/are the ultimate solution, there i
 ## My pentest template
 * [Pentest template](https://github.com/suljov/suljov/blob/main/pentest-template.ctb)
 
-## My documenting template
-* [Documenting template](https://github.com/suljov/suljov/blob/main/documenting-template.ctb)
 
 ## My repositories 
 * [Windows and Active Directory cheat sheet](https://github.com/suljov/Windwos-and-Active-Directory)
