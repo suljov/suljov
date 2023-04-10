@@ -11,7 +11,7 @@ OBS: My notes/cheat sheets do not always have/are the ultimate solution, there i
 
 
 ## My pentest template
-* [Pentest template](https://github.com/suljov/suljov/blob/main/pentest-template.ctb)
+* [Pentest template](https://github.com/suljov/suljov/blob/main/pentest-template.zip)
 
 
 ## My repositories 
