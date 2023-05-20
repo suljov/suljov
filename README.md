@@ -10,9 +10,6 @@ OBS: My notes/cheat sheets do not always have/are the ultimate solution, there i
 [![tryhackme stats](https://raw.githubusercontent.com/suljov/suljov/master/assets/thm_propic.png)](https://tryhackme.com/p/suljov)
 
 
-## My pentest template
-* [Pentest template](https://github.com/suljov/suljov/blob/main/pentest-template.zip)
-
 
 ## My repositories 
 * [Windows and Active Directory cheat sheet](https://github.com/suljov/Windwos-and-Active-Directory)
