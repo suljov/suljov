@@ -12,6 +12,7 @@ OBS: My notes/cheat sheets do not always have/are the ultimate solution, there i
 
 
 ## My repositories 
+OBS: These are no longer maintained and updated
 * [Windows and Active Directory cheat sheet](https://github.com/suljov/Windwos-and-Active-Directory)
 * [Linux hacking cheat sheet](https://github.com/suljov/Hacking-linux)
 * [Pivoting Tunneling and Port Forwarding cheat sheet](https://github.com/suljov/Pivoting-Tunneling-and-Port-Forwarding)
