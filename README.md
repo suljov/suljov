@@ -4,7 +4,7 @@ Im also studying ethical hacking with goals to work as a penetreation tester and
 
 I mostly use Github to take/make notes and cheat sheets for mostly myself but sharing it for everyone to help the community so enjoy!! 
 
-🔥 HTB CPTS certified
+💎 HTB CPTS certified
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suljov&show_icons=true&theme=dracula)
 
