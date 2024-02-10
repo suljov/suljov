@@ -1,4 +1,3 @@
-# Hi there, I'm suljov! 👋
 Cybersecurity Specialist
 
 💎 HTB CPTS certified
