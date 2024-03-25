@@ -1,4 +1,4 @@
-Cybersecurity Specialist
+💎 Cybersecurity Specialist
 
 💎 HTB CPTS certified
 
