@@ -1,6 +1,6 @@
-💎 Cybersecurity Specialist
-
 💎 HTB CPTS certified
+
+💎 Cybersecurity Specialist
 
 💎 Junior penetration tester
 
