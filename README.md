@@ -1,3 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Hack&color=%239315B7&lines=What's+up!+I'm+Leo+-+aka+p4p1)](https://git.io/typing-svg)
+
+
 💎 Cybersecurity Specialist
 
 💎 Junior penetration tester
