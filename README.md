@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Butcherman&weight=200&duration=3000&pause=1000&color=9C0000&background=5D20FF00&random=true&width=442&lines=It's+you+versus+yourself)](https://git.io/typing-svg)
 
-💎 Cybersecurity Specialist
+💎 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Butcherman&weight=200&duration=3000&pause=1000&color=9C0000&background=5D20FF00&random=true&width=442&lines=It's+you+versus+yourself)](https://git.io/typing-svg)
 
 💎 Junior penetration tester
 
