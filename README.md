@@ -5,7 +5,7 @@
 💎 Junior penetration tester
 
 
-[<img src="https://www.hackthebox.eu/badge/image/432163" alt="Relwarc17" style="width: 400px;">](https://www.hackthebox.eu/home/users/profile/432163)
+[<img src="https://www.hackthebox.eu/badge/image/432163" alt="Relwarc17" style="width: 300px;">](https://www.hackthebox.eu/home/users/profile/432163)
 
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/suljov.png" alt="Your Image Badge" />
