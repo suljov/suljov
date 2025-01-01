@@ -4,7 +4,7 @@
 
 💎 Junior penetration tester
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=225085" style='border:none;'></iframe>
+![GitHub followers](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=225085)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suljov&show_icons=true&theme=dracula)
 
