@@ -1,7 +1,9 @@
 💎 HTB CPTS certified
 
 💎 Cybersecurity Specialist
-<img src="https://academy.hackthebox.com/storage/badges/htb-certified-penetration-testing-specialist.png" alt="suljov3" style="width: 300px;">
+
+<img src="https://academy.hackthebox.com/storage/badges/htb-certified-penetration-testing-specialist.png" alt="suljov3" style="width: 100px;">
+
 💎 Junior penetration tester
 
 
