@@ -6,7 +6,7 @@
 
 💎 HTB CPTS certified
 
-💎 MCRTP
+💎 MCRTP certified
 
 
 [<img src="https://academy.hackthebox.com/storage/badges/htb-certified-penetration-testing-specialist.png" alt="suljov3" style="width: 200px;">](https://academy.hackthebox.com/achievement/badge/1521418b-35d8-11ee-acfc-bea50ffe6cb4)
