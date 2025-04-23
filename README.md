@@ -4,7 +4,7 @@
 
 💎 Junior penetration tester
 
-💎 HTB CPTS certified
+💎 CPTS certified
 
 💎 MCRTP certified
 
