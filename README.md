@@ -9,7 +9,7 @@
 💎 MCRTP certified
 
 
-[<img src="https://academy.hackthebox.com/storage/badges/htb-certified-penetration-testing-specialist.png" alt="suljov3" style="width: 200px;">](https://www.credly.com/earner/earned/badge/095972c3-5f86-4ca4-8c95-f5af0f498304)
+[<img src="https://academy.hackthebox.com/storage/badges/htb-certified-penetration-testing-specialist.png" alt="suljov3" style="width: 200px;">]([https://www.credly.com/earner/earned/badge/095972c3-5f86-4ca4-8c95-f5af0f498304](https://www.credly.com/badges/095972c3-5f86-4ca4-8c95-f5af0f498304/public_url))
 [<img src="https://images.credly.com/images/2ce15d62-caa1-45e5-8b3b-2b1f80b39cc5/blob" alt="suljov3" style="width: 200px;">](https://www.credly.com/earner/earned/badge/08cae1c0-1fe2-48c6-bf58-9cfcef8a97c7)
 
 [<img src="https://tryhackme-badges.s3.amazonaws.com/suljov.png" alt="suljov2" style="width: 300px;">](https://tryhackme.com/p/suljov)
