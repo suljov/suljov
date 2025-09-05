@@ -9,7 +9,7 @@
 💎 MCRTP certified
 
 
-[<img src="https://academy.hackthebox.com/storage/badges/htb-certified-penetration-testing-specialist.png" alt="suljov3" style="width: 200px;">](https://www.credly.com/badges/095972c3-5f86-4ca4-8c95-f5af0f498304/public_url)
+[<img src="https://images.credly.com/images/e63aa507-b974-4e67-bae6-1e425f6e2a99/image.png" alt="suljov3" style="width: 200px;">](https://www.credly.com/badges/095972c3-5f86-4ca4-8c95-f5af0f498304/public_url)
 [<img src="https://images.credly.com/images/6ea4686c-c2c4-46a0-8582-de6b1467c874/blob" alt="suljov3" style="width: 200px;">](https://www.credly.com/badges/08cae1c0-1fe2-48c6-bf58-9cfcef8a97c7/public_url)
 
 [<img src="https://tryhackme-badges.s3.amazonaws.com/suljov.png" alt="suljov2" style="width: 300px;">](https://tryhackme.com/p/suljov)
@@ -18,3 +18,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suljov&show_icons=true&theme=dracula)
 
 
+# https://academy.hackthebox.com/storage/badges/htb-certified-penetration-testing-specialist.png
