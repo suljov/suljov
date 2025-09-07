@@ -2,7 +2,7 @@
 
 💎 Cybersecurity Specialist
 
-💎 Junior penetration tester
+💎 Penetration tester
 
 💎 CPTS certified
 
