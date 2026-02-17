@@ -14,6 +14,3 @@
 
 [<img src="https://tryhackme-badges.s3.amazonaws.com/suljov.png" alt="suljov2" style="width: 300px;">](https://tryhackme.com/p/suljov)
 [<img src="https://www.hackthebox.eu/badge/image/432163" alt="suljov1" style="width: 300px;">](https://app.hackthebox.com/profile/432163)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suljov&show_icons=true&theme=dracula)
-
