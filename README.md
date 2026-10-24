@@ -1,6 +1,6 @@
 ## 👋 About me
 
-I'm a cybersecurity specialist, where I work with penetration testing, security reviews and vulnerability identification. I enjoy offensive security, from classic network and Active Directory attacks to modern cloud environments, and I like building my own tooling along the way.
+I'm a cybersecurity specialist, i work with penetration testing, security reviews and vulnerability identification. I enjoy offensive security, from classic network and Active Directory attacks to modern cloud environments, and I like building my own tooling along the way.
 
 ## 🎯 Focus areas
 
