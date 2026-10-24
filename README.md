@@ -1,17 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Butcherman&weight=200&duration=3000&pause=1000&color=9C0000&background=5D20FF00&random=true&width=442&lines=It's+you+versus+yourself)](https://git.io/typing-svg)
-
-💎 Cybersecurity Specialist
-
-💎 Penetration tester
-
-💎 CPTS certified
-
-💎 MCRTP certified
-
-
-[<img src="https://academy.hackthebox.com/storage/exam_badges/312krCbLBwwnMN1uaOXohoEjSE6Fb8ljaXi7B4zL.png" alt="suljov3" style="width: 200px;">](https://www.credly.com/badges/095972c3-5f86-4ca4-8c95-f5af0f498304/public_url)
-[<img src="https://images.credly.com/images/6ea4686c-c2c4-46a0-8582-de6b1467c874/blob" alt="suljov3" style="width: 200px;">](https://www.credly.com/badges/08cae1c0-1fe2-48c6-bf58-9cfcef8a97c7/public_url)
-
 ## 👋 About me
 
 I'm a cybersecurity specialist, where I work with penetration testing, security reviews and vulnerability identification. I enjoy offensive security, from classic network and Active Directory attacks to modern cloud environments, and I like building my own tooling along the way.
